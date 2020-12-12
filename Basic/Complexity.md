@@ -1,4 +1,4 @@
-### Time and Memory Complexity
+## Time and Memory Complexity
 
 **Date**: November 22, 2020 <br>
 **Conducted by**: Rishik
