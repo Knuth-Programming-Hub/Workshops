@@ -28,9 +28,10 @@
 
 -   [Greedy algorithms Video - Google Drive](https://drive.google.com/file/d/1OwVQd58JF34q8x7A8vlsxydX9zHOxrtm/view?usp=sharing)
 -   [DP basics Slides - Google Slides](https://docs.google.com/presentation/d/1w_VI7_0rcFNVpgx-3JWX4KIoCsHP92qAKtN0Y3EO_gg/edit?usp=sharing)
--   Implementation for that AtCoder Problem
+-   Implementation for that AtCoder Problem:
     -   [iterative version](https://ideone.com/1Lgedu)
     -   [recursive version](https://ideone.com/PSrpjS)
+-   Implementation for the Knapsack problem: [link](https://ideone.com/A8RvEp)
 
 ## Further Reading
 
