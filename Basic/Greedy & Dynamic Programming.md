@@ -3,42 +3,42 @@
 **Date**: December 24, 2020 <br>
 **Conducted by**: Utkarsh, Harsh, Hemant
 
-## Agenda
+### Agenda
 
--   Greedy
+- Greedy
 
-    -   Thinking greedily
-        -   Greedy choice property
-        -   Optimal substructure
-    -   Problem discussion and Applications
+  - Thinking greedily
+    - Greedy choice property
+    - Optimal substructure
+  - Problem discussion and Applications
 
--   Dynamic Programming
-    -   Introduction
-    -   Solving a Problem
-    -   Propertites of DP problems
-        -   Optimal Substructure
-        -   Overlapping Subproblems
-    -   States and Transitions
-    -   Memoization and Tabulation
-    -   Some Standard Problems
-        -   0-1 Knapsack Problem
-    -   Conclusion
+- Dynamic Programming
+  - Introduction
+  - Solving a Problem
+  - Propertites of DP problems
+    - Optimal Substructure
+    - Overlapping Subproblems
+  - States and Transitions
+  - Memoization and Tabulation
+  - Some Standard Problems
+    - 0-1 Knapsack Problem
+  - Conclusion
 
-## Resources
+### Resources
 
--   [Greedy algorithms Video - Google Drive](https://drive.google.com/file/d/1OwVQd58JF34q8x7A8vlsxydX9zHOxrtm/view?usp=sharing)
--   [DP basics Slides - Google Slides](https://docs.google.com/presentation/d/1w_VI7_0rcFNVpgx-3JWX4KIoCsHP92qAKtN0Y3EO_gg/edit?usp=sharing)
--   Implementation for that AtCoder Problem:
-    -   [iterative version](https://ideone.com/1Lgedu)
-    -   [recursive version](https://ideone.com/PSrpjS)
--   Implementation for the Knapsack problem: [link](https://ideone.com/A8RvEp)
+- [Greedy algorithms Video - Google Drive](https://drive.google.com/file/d/1OwVQd58JF34q8x7A8vlsxydX9zHOxrtm/view?usp=sharing)
+- [DP basics Slides - Google Slides](https://docs.google.com/presentation/d/1w_VI7_0rcFNVpgx-3JWX4KIoCsHP92qAKtN0Y3EO_gg/edit?usp=sharing)
+- Implementation for that AtCoder Problem:
+  - [iterative version](https://ideone.com/1Lgedu)
+  - [recursive version](https://ideone.com/PSrpjS)
+- Implementation for the Knapsack problem: [link](https://ideone.com/A8RvEp)
 
-## Further Reading
+### Further Reading
 
--   [Greedy Algorithms - Brilliant](https://brilliant.org/wiki/greedy-algorithm)
--   [DP Tutorial and Problem List - Codeforces](https://codeforces.com/blog/entry/67679)
+- [Greedy Algorithms - Brilliant](https://brilliant.org/wiki/greedy-algorithm)
+- [DP Tutorial and Problem List - Codeforces](https://codeforces.com/blog/entry/67679)
 
-## Practice Problems
+### Practice Problems
 
--   [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp)
--   [Edu Contest #2](https://github.com/Knuth-Programming-Hub/Knuth-Contests#2020-21)
+- [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp)
+- [Edu Contest #2](https://github.com/Knuth-Programming-Hub/Knuth-Contests#2020-21)
