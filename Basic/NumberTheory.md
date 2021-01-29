@@ -12,12 +12,13 @@
 - Sieve of Eratosthenes
   - Illustrating the concept
   - Answering multiple queries
-  - Prime factorisation using _smallest prime factor_
+  - Prime factorisation using _smallest prime factor (spf)_
 
 ### Resources
 
-- [checking whether a no. is prime](https://ide.codingblocks.com/s/414390)
+- [Checking whether a no. is prime](https://ide.codingblocks.com/s/414390)
 - [Prime factorisation in O(sqrt(N))](https://ide.codingblocks.com/s/414401)
+- [Sieve and _spf_](https://ideone.com/Vx04OG)
 
 ### Further Reading
 
