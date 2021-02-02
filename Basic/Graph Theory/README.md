@@ -1,6 +1,6 @@
 ## Basics of Graph Theory
 
-**Date**: February 2, 2021 <br>
+**Date**: February 1, 2021 <br>
 **Conducted By**: [Utkarsh](https://github.com/utkarsh261), [Rishik](https://github.com/sosooding) and [Hemant](https://github.com/hemant2132)
 
 ### Agenda
