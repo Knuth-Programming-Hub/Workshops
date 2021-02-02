@@ -34,12 +34,17 @@
 
 - **Graph Traversals**
 
-  - Breadth First Search: Visualisation + Code
-  - Depth First Search: Visualisation + Code
+  - Breadth First Search (BFS)
+  - Depth First Search (DFS)
+  - Visualisation + Code
 
 ## Resources
 
 - [Path-finding Visualizer](https://clementmihailescu.github.io/Pathfinding-Visualizer/)
+- Codes
+  - [Graph Representation](graph.cpp)
+  - [BFS](bfs.cpp)
+  - [DFS](dfs.cpp)
 
 ## Further Reading
 
