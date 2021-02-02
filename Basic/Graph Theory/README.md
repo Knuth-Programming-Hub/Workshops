@@ -1,6 +1,6 @@
 ## Basics of Graph Theory
 
-**Date**: February 2, 2021 <br>
+**Date**: February 1, 2021 <br>
 **Conducted By**: [Utkarsh](https://github.com/utkarsh261), [Rishik](https://github.com/sosooding) and [Hemant](https://github.com/hemant2132)
 
 ### Agenda
@@ -38,7 +38,7 @@
   - Depth First Search (DFS)
   - Visualisation + Code
 
-## Resources
+### Resources
 
 - [Path-finding Visualizer](https://clementmihailescu.github.io/Pathfinding-Visualizer/)
 - Codes
@@ -46,13 +46,13 @@
   - [BFS](bfs.cpp)
   - [DFS](dfs.cpp)
 
-## Further Reading
+### Further Reading
 
 - [Graph Theory 1 - Hackerearth](https://www.hackerearth.com/practice/notes/graph-theory-part-i/)
 - [Algorithms Live! - Party with Trees](https://www.youtube.com/watch?v=2PFl93WM_ao)
 - [William Fiset - Graph Theory Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
 
-## Practice Problems
+### Practice Problems
 
 - [Graphs - HackerEarth](https://www.hackerearth.com/practice/algorithms/graphs)
 - [DSA Learning Series - Graph Theory Basics | CodeChef](https://www.codechef.com/LRNDSA08)

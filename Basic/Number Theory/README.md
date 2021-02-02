@@ -5,11 +5,11 @@
 
 ### Agenda
 
-- Checking whether a number is prime or not
+- **Checking whether a number is prime or not**
   - Naive approach
   - O(sqrt(N)) approach
-- Prime factorisation in O(sqrt(N))
-- Sieve of Eratosthenes
+- **Prime factorisation in O(sqrt(N))**
+- **Sieve of Eratosthenes**
   - Illustrating the concept
   - Answering multiple queries
   - Prime factorisation using _smallest prime factor (spf)_
@@ -17,9 +17,9 @@
 
 ### Resources
 
-- [Checking whether a no. is prime](https://ide.codingblocks.com/s/414390)
-- [Prime factorisation in O(sqrt(N))](https://ide.codingblocks.com/s/414401)
-- [Sieve and _spf_](https://ideone.com/Vx04OG)
+- [Checking whether a no. is prime](prime_check.cpp)
+- [Prime factorisation in O(sqrt(N))](prime_factorisation.cpp)
+- [Sieve and _spf_](sieve.cpp)
 
 ### Further Reading
 
@@ -30,6 +30,7 @@
 
 ### Practice Problems
 
+- [DSA Learning Series - Mathematics in CP | CodeChef](https://www.codechef.com/LRNDSA05)
 - [CodeChef Prepare](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)
   - Prime Numbers, divisibility of numbers
   - Sieve of Eratosthenes
