@@ -24,19 +24,19 @@
 
 ### Resources
 
-- Codes
-  - [Cycle Detection using DFS](CycleDetection.cpp)
-  - [Component Coloring using DFS](ComponentColoring.cpp)
-  - [Dijkstra Implementation using Sets](https://cp-algorithms.com/graph/dijkstra_sparse.html)
-  - [Dijkstra Implementation using PQ](https://cses.fi/book/book.pdf)
+- [Cycle Detection using DFS](CycleDetection.cpp)
+- [Component Coloring using DFS](ComponentColoring.cpp)
+- [Dijkstra Implementation using Sets](https://cp-algorithms.com/graph/dijkstra_sparse.html)
+- [Dijkstra Implementation using PQ](https://cses.fi/book/book.pdf)
 
 ### Further Reading
 
 - [Graph Theory 2 - Hackerearth](https://www.hackerearth.com/practice/notes/graph-theory-part-ii/)
 - [William Fiset - Graph Theory Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
+- [Algorithm Gym :: Graph Algorithms - Codeforces](https://codeforces.com/blog/entry/16221)
 
 ### Practice Problems
 
-- [Dijkstra](https://www.hackerrank.com/contests/13-errors-why/challenges/ash-and-rangoli)
-- [Dijkstra](http://www.usaco.org/index.php?page=viewproblem2&cpid=117)
-- [Dijkstra](http://www.usaco.org/index.php?page=viewproblem2&cpid=434)
+- [Ash and Rangoli - HackerRank](https://www.hackerrank.com/contests/13-errors-why/challenges/ash-and-rangoli)
+- [Relocation - USACO](http://www.usaco.org/index.php?page=viewproblem2&cpid=117)
+- [Duelling GPSs - USACO](http://www.usaco.org/index.php?page=viewproblem2&cpid=434)
