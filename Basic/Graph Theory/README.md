@@ -42,9 +42,9 @@
 
 - [Path-finding Visualizer](https://clementmihailescu.github.io/Pathfinding-Visualizer/)
 - Codes
-  - [Graph Representation](graph.cpp)
-  - [BFS](bfs.cpp)
-  - [DFS](dfs.cpp)
+  - [Graph Representation](https://github.com/Knuth-Programming-Hub/Workshops/blob/master/Basic/Graph%20Theory/graph.cpp)
+  - [BFS](https://github.com/Knuth-Programming-Hub/Workshops/blob/master/Basic/Graph%20Theory/bfs.cpp)
+  - [DFS](https://github.com/Knuth-Programming-Hub/Workshops/blob/master/Basic/Graph%20Theory/dfs.cpp)
 
 ### Further Reading
 
@@ -55,7 +55,7 @@
 ### Practice Problems
 
 - [Graphs - HackerEarth](https://www.hackerearth.com/practice/algorithms/graphs)
-- [DSA Learning Series - Graph Theory Basics | CodeChef](https://www.codechef.com/LRNDSA08)
+- [DSA Learning Series - Graph Theory Basics - CodeChef](https://www.codechef.com/LRNDSA08)
 - [Graph Theory - CSES](https://cses.fi/problemset/)
 - [CodeChef Prepare](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)
   - Trees

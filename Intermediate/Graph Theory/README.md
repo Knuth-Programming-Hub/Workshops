@@ -24,8 +24,8 @@
 
 ### Resources
 
-- [Cycle Detection using DFS](CycleDetection.cpp)
-- [Component Coloring using DFS](ComponentColoring.cpp)
+- [Cycle Detection using DFS](https://github.com/Knuth-Programming-Hub/Workshops/blob/master/Intermediate/Graph%20Theory/CycleDetection.cpp)
+- [Component Coloring using DFS](https://github.com/Knuth-Programming-Hub/Workshops/blob/master/Intermediate/Graph%20Theory/ComponentColoring.cpp)
 - [Dijkstra Implementation using Sets](https://cp-algorithms.com/graph/dijkstra_sparse.html)
 - [Dijkstra Implementation using PQ](https://cses.fi/book/book.pdf)
 

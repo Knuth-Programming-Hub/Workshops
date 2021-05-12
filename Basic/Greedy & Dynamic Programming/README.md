@@ -30,9 +30,9 @@
 - [Greedy algorithms Video - Google Drive](https://drive.google.com/file/d/1OwVQd58JF34q8x7A8vlsxydX9zHOxrtm/view?usp=sharing)
 - [DP basics Slides - Google Slides](https://docs.google.com/presentation/d/1w_VI7_0rcFNVpgx-3JWX4KIoCsHP92qAKtN0Y3EO_gg/edit?usp=sharing)
 - Implementation for that AtCoder Problem:
-  - [iterative version](dp_iterative.cpp)
-  - [recursive version](dp_recursive.cpp)
-- Implementation for the Knapsack problem: [link](Knapsack.java)
+  - [iterative version](https://github.com/Knuth-Programming-Hub/Workshops/blob/master/Basic/Greedy%20%26%20Dynamic%20Programming/dp_iterative.cpp)
+  - [recursive version](https://github.com/Knuth-Programming-Hub/Workshops/blob/master/Basic/Greedy%20%26%20Dynamic%20Programming/dp_recursive.cpp)
+- Implementation for the Knapsack problem: [link](https://github.com/Knuth-Programming-Hub/Workshops/blob/master/Basic/Greedy%20%26%20Dynamic%20Programming/Knapsack.java)
 
 ### Further Reading
 

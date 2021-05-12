@@ -13,4 +13,4 @@
 
 ### Practice Problems
 
--   [Codezen | Coding Ninjas](https://codezen.codingninjas.com/practice/categories/recursion-&-backtracking/recursion)
+-   [Codezen - Coding Ninjas](https://codezen.codingninjas.com/practice/categories/recursion-&-backtracking/recursion)
